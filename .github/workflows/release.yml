@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  Version_Project: "0.0.1"
-  Version_Release: "0.0.1"
+  Version_Project: "0.0.2"
+  Version_Release: "0.0.2"
 
 jobs:
   build-linux:
